@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+<i></i>
 This coding is intended to train skills for backend. You guys can refer to this source for more detail and I also provide his GitHub
 
 Credit:
